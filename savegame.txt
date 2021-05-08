@@ -1,0 +1,2 @@
+119 32 226 Orc Axe Platemail 269 20
+58 193 93 Elf Sword Platemail 181 26
